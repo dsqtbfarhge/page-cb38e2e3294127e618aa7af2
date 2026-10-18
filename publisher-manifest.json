@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "7c5ba696af8ba8984d41a9dd",
+  "owner": "dsqtbfarhge",
+  "repo": "page-cb38e2e3294127e618aa7af2",
+  "title": "猪的大飞机",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cb38e2e3294127e618aa7af2",
+      "a": "猪的大飞机",
+      "b": "",
+      "entity": "猪的大飞机",
+      "brand": "猪的大飞机",
+      "separator": "",
+      "path": "index.html",
+      "hash": "8720430ed2043ec0ae50deec54e319fe64cc7b409c7c3e61042bcf8d2732d8dc",
+      "content": {
+        "keyword1": "猪的大飞机",
+        "keyword2": "",
+        "primary_entity": "猪的大飞机",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "猪的大飞机以一种略带反讽却极度务实的态度，探讨当下网络数据流转的边界与开销。我们把注意力放回带宽、并发与基础协议的本职，提供清晰可测的方案矩阵与设备接入说明。",
+          "AI_DESCRIPTION": "猪的大飞机以一种略带反讽却极度务实的态度，探讨当下网络数据流转的边界与开销。我们把注意力放回带宽、并发与基础协议的本职，提供清晰可测的方案矩阵与设备接入说明。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {box-sizing: border-box;margin: 0;padding: 0}\nhtml {font-size: 16px;background-color: #ffffff;color: #1a1a1a;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", sans-serif;line-height: 1.7}\nbody {background: #ffffff;color: #1a1a1a;padding-bottom: 72px}\na {color: inherit;text-decoration: none}\nmain {width: 100%}\n\n/* 巨幅海报式首屏 */\n.hero-poster {padding: 4rem 1.5rem 3rem 1.5rem;border-bottom: 2px solid #1a1a1a;background: #ffffff;max-width: 1200px;margin: 0 auto}\n.brand-display {font-size: clamp(3.5rem, 13vw, 10.5rem);font-weight: 900;line-height: 0.95;letter-spacing: -0.05em;color: #ff5500;word-break: break-all;text-transform: uppercase}\n.hero-meta {margin-top: 2rem;display: grid;grid-template-columns: 1fr;gap: 1.5rem;border-top: 1px solid #e0e0e0;padding-top: 1.5rem}\n@media (min-width: 768px) {\n  .hero-meta {grid-template-columns: 2fr 1fr;align-items: baseline}\n}\n.hero-lead {font-size: 1.25rem;color: #222222;font-weight: 500;line-height: 1.6}\n.hero-label {font-size: 0.875rem;color: #777777;text-transform: uppercase;letter-spacing: 0.08em}\n\n/* 专栏主体布局 */\n.content-wrapper {max-width: 1200px;margin: 0 auto;padding: 3rem 1.5rem}\n.section-title {font-size: 2rem;font-weight: 800;letter-spacing: -0.03em;margin-bottom: 1.5rem;color: #111111;position: relative;display: inline-block}\n.section-title::after {content: \"\";display: block;width: 100%;height: 4px;background: #ff5500;margin-top: 6px}\n.prose-block {font-size: 1.05rem;color: #333333;line-height: 1.85;margin-bottom: 2.5rem;max-width: 820px}\n.prose-block p {margin-bottom: 1.25rem}\n\n/* 专栏卡片 (左侧色条标记) */\n.essay-cards {display: grid;grid-template-columns: 1fr;gap: 1.5rem;margin: 2.5rem 0 4rem 0}\n@media (min-width: 768px) {\n  .essay-cards {grid-template-columns: repeat(3, 1fr)}\n}\n.essay-card {background: #fafafa;border: 1px solid #eeeeee;border-left: 6px solid #ff5500;padding: 1.75rem 1.25rem}\n.essay-card h3 {font-size: 1.15rem;font-weight: 700;margin-bottom: 0.75rem;color: #111111}\n.essay-card p {font-size: 0.925rem;color: #555555;line-height: 1.65}\n\n/* 套餐：横向对比表格 */\n.table-section {margin: 4rem 0}\n.table-container {overflow-x: auto;margin-top: 1.5rem;border: 1px solid #1a1a1a;background: #ffffff}\ntable.plans-table {width: 100%;border-collapse: collapse;min-width: 640px;text-align: left}\ntable.plans-table th, table.plans-table td {padding: 1.25rem 1.5rem;border-bottom: 1px solid #e5e5e5;border-right: 1px solid #f0f0f0}\ntable.plans-table th {background: #fbfbfb;font-weight: 700;font-size: 0.95rem;color: #111111;text-transform: uppercase;letter-spacing: 0.05em}\ntable.plans-table tr:last-child td {border-bottom: none}\ntable.plans-table td:last-child, table.plans-table th:last-child {border-right: none}\n.plan-name-cell {font-size: 1.15rem;font-weight: 800;color: #111111}\n.badge-featured {display: inline-block;background: #ff5500;color: #ffffff;font-size: 0.75rem;font-weight: 600;padding: 2px 8px;margin-left: 6px;border-radius: 2px;vertical-align: middle}\n.price-tag {font-size: 1.2rem;font-weight: 800;color: #ff5500}\n.annual-note {font-size: 0.8rem;color: #888888;display: block;margin-top: 4px}\n.feature-list-plain {list-style: none;font-size: 0.875rem;color: #444444}\n.feature-list-plain li {margin-bottom: 4px}\n.feature-list-plain li::before {content: \"— \";color: #ff5500}\n\n/* 客户端配置说明 */\n.clients-section {margin: 4rem 0}\n.guide-grid {display: grid;grid-template-columns: 1fr;gap: 1.5rem;margin-top: 1.5rem}\n@media (min-width: 768px) {\n  .guide-grid {grid-template-columns: repeat(2, 1fr)}\n}\n.guide-card {background: #ffffff;border: 1px solid #e0e0e0;border-left: 5px solid #ff5500;padding: 1.75rem}\n.guide-card h3 {font-size: 1.2rem;font-weight: 700;margin-bottom: 0.75rem}\n.guide-card p {font-size: 0.95rem;color: #555555;margin-bottom: 1rem}\n.guide-steps {margin: 0;padding-left: 1.25rem;color: #333333;font-size: 0.9rem}\n.guide-steps li {margin-bottom: 0.5rem}\n\n/* FAQ：双栏问答 */\n.faq-section {margin: 4rem 0}\n.faq-grid {display: grid;grid-template-columns: 1fr;gap: 2rem;margin-top: 1.5rem}\n@media (min-width: 768px) {\n  .faq-grid {grid-template-columns: 1fr 1fr}\n}\n.faq-item {border-left: 3px solid #ff5500;padding-left: 1.25rem}\n.faq-item h3 {font-size: 1.05rem;font-weight: 700;color: #111111;margin-bottom: 0.5rem}\n.faq-item p {font-size: 0.925rem;color: #555555;line-height: 1.7}\n\n/* 底部固定式文字导航 */\n.fixed-bottom-nav {position: fixed;bottom: 0;left: 0;right: 0;background: #ffffff;border-top: 2px solid #1a1a1a;z-index: 100;padding: 0.75rem 1.5rem}\n.nav-inner {max-width: 1200px;margin: 0 auto;display: flex;justify-content: space-between;align-items: center;flex-wrap: wrap;gap: 1rem}\n.nav-brand {font-weight: 900;color: #ff5500;font-size: 1rem;letter-spacing: -0.02em}\n.nav-links {display: flex;gap: 1.5rem;list-style: none;font-size: 0.875rem;font-weight: 600}\n.nav-links a:hover {color: #ff5500}\n</style><main>\n  \n  <section class=\"hero-poster\" id=\"manifesto\">\n    <h1 class=\"brand-display\">猪的大飞机</h1>\n    <div class=\"hero-meta\">\n      <div class=\"hero-lead\">\n        网络通道并不神秘，它只是一串严格按照协议吞吐的代码与带宽账本。我们拒绝玄学修辞，用一张严整的数据表和通行的开源标准，交代每一兆流量的去向。\n      </div>\n      <div class=\"hero-label\">\n        第 4545 期观察 / 专栏独立记录 / 纯粹连接纪要\n      </div>\n    </div>\n  </section>\n\n  <div class=\"content-wrapper\">\n    \n    <section>\n      <h2 class=\"section-title\">重构吞吐的重量</h2>\n      <div class=\"prose-block\">\n        <p>在数字链路被冠以各种虚浮词藻的今天，绝大多数使用者真正需要的，无非是稳定受控的并发线程，以及在账单到期时不至于让人困惑的配额体系。“猪的大飞机”这个称谓带着某种略显粗粝的自嘲，正是在提醒我们：无论承载协议的工具名字起得多么轻盈，底层的铜缆、光纤与端口转发始终沉重而真实。</p>\n        <p>我们将服务还原为透明的指标对比。这里没有不可量化的承诺，只有按照物理规律运行的转发规则。无论你是在工作台上调试远程脚本，还是在深夜里整理跨域文档，数据包理应遵循既定规则，平稳通过。</p>\n      </div>\n\n      \n      <div class=\"essay-cards\">\n        <article class=\"essay-card\">\n          <h3>规则透明</h3>\n          <p>配额明确到千兆字节，不设置隐形阈值。所有数据出入皆有迹可循，杜绝峰值阶段的暗中限流与调度歧视。</p>\n        </article>\n        <article class=\"essay-card\">\n          <h3>协议标准</h3>\n          <p>基于成熟开放的标准通信协议运行，不锁定专有闭源客户端，保障使用者拥有纯粹的工具选择自由。</p>\n        </article>\n        <article class=\"essay-card\">\n          <h3>账目平实</h3>\n          <p>月付与年付提供符合常理的折让，不诱导超出实际需求的预充值，让每一次订阅都对应具体的生产力价值。</p>\n        </article>\n      </div>\n    </section>\n\n    \n    <section class=\"table-section\" id=\"plans\">\n      <h2 class=\"section-title\">订阅层级对照</h2>\n      <div class=\"prose-block\">\n        <p>我们提供三种不同权重的方案，以此对应个人偶发查阅、日常高频协同以及多端多成员作业的不同场景。请根据每月预估的带宽吞吐与设备总数审慎选定。</p>\n      </div>\n\n      <div class=\"table-container\">\n        <table class=\"plans-table\">\n          <thead>\n            <tr>\n              <th>方案版本</th>\n              <th>计费规格</th>\n              <th>月度流量额度</th>\n              <th>同时在线设备</th>\n              <th>节点与线路权属</th>\n              <th>运维支援标准</th>\n            </tr>\n          </thead>\n          <tbody>\n            <tr>\n              <td class=\"plan-name-cell\">基础版</td>\n              <td>\n                <span class=\"price-tag\">¥15/月</span>\n                <span class=\"annual-note\">按年付仅需 ¥150/年</span>\n              </td>\n              <td>100 GB 极速流量</td>\n              <td>3 台设备</td>\n              <td>\n                <ul class=\"feature-list-plain\">\n                  <li>普通线路节点池</li>\n                  <li>基础流媒体内容解锁</li>\n                </ul>\n              </td>\n              <td>标准工单排队队列</td>\n            </tr>\n            <tr>\n              <td class=\"plan-name-cell\">\n                旗舰版\n                <span class=\"badge-featured\">主流推荐</span>\n              </td>\n              <td>\n                <span class=\"price-tag\">¥35/月</span>\n                <span class=\"annual-note\">按年付仅需 ¥350/年</span>\n              </td>\n              <td>300 GB 极速流量</td>\n              <td>5 台设备</td>\n              <td>\n                <ul class=\"feature-list-plain\">\n                  <li>IPLC 专线与延迟优化</li>\n                  <li>全节点原生流媒体支持</li>\n                </ul>\n              </td>\n              <td>7×24 小时优先工单</td>\n            </tr>\n            <tr>\n              <td class=\"plan-name-cell\">团队版</td>\n              <td>\n                <span class=\"price-tag\">¥85/月</span>\n                <span class=\"annual-note\">按年付仅需 ¥850/年</span>\n              </td>\n              <td>1000 GB 极速流量</td>\n              <td>20 台设备</td>\n              <td>\n                <ul class=\"feature-list-plain\">\n                  <li>VIP 专属高带宽节点池</li>\n                  <li>支持企业级定制路由策略</li>\n                </ul>\n              </td>\n              <td>专属客户经理单点对接</td>\n            </tr>\n          </tbody>\n        </table>\n      </div>\n    </section>\n\n    \n    <section class=\"clients-section\" id=\"setup\">\n      <h2 class=\"section-title\">接入指南与配置流转</h2>\n      <div class=\"prose-block\">\n        <p>猪的大飞机不提供也不捆绑任何经过篡改的第三方二进制安装包。使用者可以在桌面与移动平台中选用受社区广泛检验的通用开源核心，通过标准订阅链接完成节点下发。</p>\n      </div>\n\n      <div class=\"guide-grid\">\n        <article class=\"guide-card\">\n          <h3>桌面操作系统（Windows / macOS / Linux）</h3>\n          <p>适合多显示器与长时间固定网络办公场景。建议使用具备图形界面的开源路由客户端进行托管。</p>\n          <ol class=\"guide-steps\">\n            <li>在受信任的代码托管仓库下载对应系统的原生发行版本并解压。</li>\n            <li>从用户中心复制由系统生成的订阅配置地址（URL）。</li>\n            <li>在配置管理面板选择“从 URL 导入”，黏贴地址并执行一次全量拉取。</li>\n            <li>选择匹配的规则分流模式，测试节点连通性后启用系统代理。</li>\n          </ol>\n        </article>\n\n        <article class=\"guide-card\">\n          <h3>移动操作系统（iOS / Android）</h3>\n          <p>适用于移动网络与不同无线局域网之间的频繁切换，需重点关注系统的常驻后台策略。</p>\n          <ol class=\"guide-steps\">\n            <li>在系统应用商店或官方分发渠道获取支持通用协议的代理套件。</li>\n            <li>通过扫描二维码或长按导入配置链接，解析节点集群信息。</li>\n            <li>在系统弹窗中允许创建网络扩展（VPN Profile）并授权密码。</li>\n            <li>在设置中开启“按需连接”或“分应用代理”，以节省移动流量消耗。</li>\n          </ol>\n        </article>\n      </div>\n    </section>\n\n    \n    <section class=\"faq-section\" id=\"faq\">\n      <h2 class=\"section-title\">常见疑问解答</h2>\n      <div class=\"faq-grid\">\n        <div class=\"faq-item\">\n          <h3>如果当月流量耗尽，服务会如何处理？</h3>\n          <p>数据额度以自然月或账单周期结算。若当月套餐内的数据配额完全耗尽，连接将会暂停转发，直到下一个计费周期自动重置，或者使用者手动订购临时补充数据包。</p>\n        </div>\n\n        <div class=\"faq-item\">\n          <h3>多设备同时在线是以连接数还是 IP 为准？</h3>\n          <p>配额中的设备数指代同一时刻正在与接入点保持活跃 TCP/UDP 会话的物理终端数量。超过额定设备数的连接请求将被策略性拒绝，已连接设备不受影响。</p>\n        </div>\n\n        <div class=\"faq-item\">\n          <h3>如何验证订阅链接是否已经更新完毕？</h3>\n          <p>客户端通常会在拉取成功后更新本地时间戳。使用者可在配置列表内查看最新的节点存活状态与延迟数值；若出现节点不可用，可手动执行强制更新。</p>\n        </div>\n\n        <div class=\"faq-item\">\n          <h3>为什么我们不提供专有的封闭定制客户端？</h3>\n          <p>封闭客户端往往伴随安全审计缺位和系统权限滥用的潜在隐患。坚持基于通用公开协议运作，确保每一位使用者的系统环境纯净，配置流程符合行业通用规范。</p>\n        </div>\n      </div>\n    </section>\n  </div>\n</main>\n\n\n<nav class=\"fixed-bottom-nav\">\n  <div class=\"nav-inner\">\n    <div class=\"nav-brand\">猪的大飞机</div>\n    <ul class=\"nav-links\">\n      <li><a href=\"#manifesto\">序言</a></li>\n      <li><a href=\"#plans\">方案列表</a></li>\n      <li><a href=\"#setup\">配置说明</a></li>\n      <li><a href=\"#faq\">常见问答</a></li>\n    </ul>\n  </div>\n</nav>",
+          "hash": "9f7dd2726d6d03722b27de906ea7911025663aae124b8e9c3e9a9ed8c6edcc75",
+          "seo": {
+            "title": "猪的大飞机 - 网络连接的秩序与轻巧实践",
+            "keywords": "猪的大飞机, 网络配置, 流量方案, 终端管理, 专栏评述",
+            "description": "猪的大飞机以一种略带反讽却极度务实的态度，探讨当下网络数据流转的边界与开销。我们把注意力放回带宽、并发与基础协议的本职，提供清晰可测的方案矩阵与设备接入说明。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "4545",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "anbeijiayuan.cn",
+    "host": "p-35a1512d1e.anbeijiayuan.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "1e6db4591fdd6b35c768067fa628915437d9aaced141beafa0f5935d8119d84f",
+    "sitemap.xml": "b883067a75e61b4b420395756ee9e003cfd89c171a5f02a6aa0b7986bb782c97",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b8a95bac04b3b0d94e9c729104fb4e49f2a9eb228bb9e742306b988a4900f71a",
+    "robots.txt": "77b61f091eef450467f4cfcc8f25afce50e3c3634dc5e1d2405b8ef8bc708199",
+    "2490ee528893bc6522401741c32657af.txt": "8cd6bb442fbc49fe45a4d78985f17455a450c0e8dc65a7b69a767d12d5a9de3e"
+  },
+  "revision": "e3f8d8a07d674682bb14314a69a4625b18821dde49a43dff85de4466ba9f093e"
+}

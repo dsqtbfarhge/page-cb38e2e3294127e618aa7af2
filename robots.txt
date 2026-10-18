@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-35a1512d1e.anbeijiayuan.cn/sitemap.xml
